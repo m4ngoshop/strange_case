@@ -2,11 +2,12 @@
 layout: post
 title: "BOAT Stakepool - Stake with us"
 date: Forever
-categories: jekyll
+categories: Staking
 featured_image: /images/cover.jpg
 ---
 
-High availability AWS power servers. 99.5% SLA
+High availability AWS power servers. 99.5% SLA.
+0.75% Fee Forever
 
 
 ## Inspiration & Writing
