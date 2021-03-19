@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Strange Case of Dr Jekyll and Mr Hyde"
-date: 2014-01-07 12:00:00
+title: "Boat Stakepool - Stake with us"
+date: Forever
 categories: jekyll
 featured_image: /images/cover.jpg
 ---
